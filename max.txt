@@ -1,4 +1,4 @@
-esta es una nueva prueba del documento, linea modificada en la web
+﻿esta es una nueva prueba del documento, linea modificada en la web
 
-L�nea escrita desde la PC.
-hoy es lunes 4 de marzo
+Linea escrita desde la PC.
+hoy es lunes 4 de marzo, hoy trabajamos más rápido.
